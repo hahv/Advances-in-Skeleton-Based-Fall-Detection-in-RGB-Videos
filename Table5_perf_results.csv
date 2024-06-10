@@ -1,0 +1,28 @@
+﻿Method;year;cite;Multicam \cite{MulticamMultipleCameras2010};Multicam2;Multicam3;Multicam4;Le2i \cite{charfiLe2iOptimizedSpatiotemporal2013};Le2i2;Le2i3;Le2i4;URFD \cite{kwolekURfallHumanFall2014};URFD2;URFD3;URFD4;UP-Fall \cite{martinez2019up};UPFall2;UPFall3;UPFall4;Other;Other;Other;Other;Speed
+;;;Acc;Sens;Spec;F1;Acc;Sens;Spec;F1;Acc;Sens;Spec;F1;Acc;Sens;Spec;F1;Acc;Sens;Spec;F1;
+ Alaoui;2019;alaouiFallDetectionElderly2019;-;-;-;-;98.5;97;100;-;97.5;100;95;-;-;-;-;-;-;-;-;-;-
+Hasan;2019;hasanRobustPoseBasedHuman2019;-;98.9;96;-;-;99;97;-;-;99;96;-;-;-;-;-;-;-;-;-;-
+Jeong;2019;jeongHumanskeletonBasedFallDetection2019;-;-;-;-;-;-;-;-;-;97.38;-;-;-;-;-;-;-;-;-;-;-
+ Lin;2020;lin2020framework;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;98.2;100;96.4;-;-
+Chen;2020;chen2020fall;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;97;98.3;95;-;-
+Serpa;2020;serpa2020evaluating;-;-;-;-;-;-;-;-;-;94.45;99.9;-;-;-;-;-;-;-;-;-;-
+Wang ;2020;wang2020fall;-;-;-;-;96.91;96.51;97.37;97.08;97.33;97.78;96.67;97.78;-;-;-;-;-;-;-;-;-
+Chang;2021;chang2021pose;98.3;-;-;-;98.1;-;-;-;97.6;-;-;-;-;-;-;-;-;-;-;-;E:10 fps
+Dentamaro;2021;dentamaro2021fall;-;-;-;-;98;97.2;98.3;98;99.6;97;98;99.6;-;-;-;-;-;-;-;-;-
+Galvao;2021;galvao2021framework;-;-;-;-;-;-;-;-;100;100;100;100;98.62;92;99;93;-;-;-;-;-
+Huu;2021;huu2021proposing;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;99;-;-;-;G:13 fps
+Liu;2021;liu2021automatic;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;94.2;-;-;-;-
+Ramirez ;2021;ramirez2021fall;-;-;-;-;-;-;-;-;-;-;-;-;99.34;98.23;99.48;98.52;-;-;-;-;-
+Chen;2022;chen2022video;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;99.83;94.25;-;-;C:18/G:63 fps
+Inturi;2022;inturi2022novel;-;-;-;-;-;-;-;-;-;-;-;-;98.59;94.37;98.96;92.47;-;-;-;-;-
+Juraev;2022;juraev2022exploring;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;94.35;;;;G: 1 ms/ infer
+Lau;2022;lau2022fall;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;96.18;-;-;-;-
+Li;2022;li2022kamtfenet;-;-;-;-;-;-;-;-;99.73;98.75;99.74;-;99.62;99.26;99.84;-;-;-;-;-;G:21 fps
+Ramirez ;2022;ramirez2022human;-;-;-;-;-;-;-;-;-;-;-;-;99.81;99.81;99.81;99.56;-;-;-;-;-
+Suarez;2022;suarez2022afar;-;-;-;-;-;-;-;-;99.2;98.65;-;97.73;89.3;83.41;-;83.67;-;-;-;-;-
+Yadav;2022;yadav2022arfdnet;-;-;-;-;-;-;-;-;-;-;-;-;96.7;96.7;-;96.6;-;-;-;-;G:40 fps
+Yuan;2022;yuan2022real;-;-;-;-;98.43;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-
+Zahan;2022;zahan2022sdfa;-;-;-;-;-;-;-;-;100;100;100;100;88.71;92.94;85.15;88.27;-;-;-;-;U:1.05 ms/infer
+Zhang;2022;zhang2022visual;-;-;-;-;-;-;-;-;99;98;99;-;-;-;-;-;98.5;98.2;98.4;-;-
+Amsaprabhaa;2023;amsaprabhaa2023multimodal;-;-;-;-;-;-;-;-;95.8;94.31;-;96.19;-;-;-;-;-;-;-;-;-
+Ramirez;2023;ramirez2023bert;-;-;-;-;-;-;-;-;-;-;-;-;99.5;85.79;99.71;87.2;-;-;-;-;-

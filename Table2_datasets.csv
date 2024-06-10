@@ -1,0 +1,8 @@
+﻿1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16
+Dataset;Cite;Year;Camera Settings;Camera Settings;Camera Settings;Subject;Subject;Scenario;Scenario;Scenario;Scenario;Scenario;No. of Data Sequence;No. of Data Sequence;Access
+XXX;XXX;XXX;RGB Cam. Type;No. Cam./\newline Viewp.;Video Res.;No. Subject;Age Range;Cond.;Loc.;Occ.;No. of Act. Types;No. of Act. Types;Fall;ADL;XXX
+XXX;XXX;XXX;XXX;XXX;XXX;XXX;XXX;XXX;XXX;XXX;Fall;ADL;XXX;XXX;XXX
+Multiple cameras Fall Dataset (MultiCam);MulticamMultipleCameras2010;2010;IP Cam.;8;720×480, 30 fps;1;-;Sim.;Home;Yes;-;-;$24 \times 8$;$24 \times 8$;http://www.iro.umontreal.ca/~labimage/Dataset/
+Le2i Fall Detection Dataset (Le2i);charfiLe2iOptimizedSpatiotemporal2013;2013;-;1;640×480, 25 fps;9;-;Sim.;Home, Office, Coffee Room, Lecture Room;Yes;3;6;143;48;https://imvia.u-bourgogne.fr/en/database/fall-detection-dataset-2.html
+UR Fall Detection Dataset (URFD);kwolekURfallHumanFall2014;2014;Microsoft Kinect;2;640×640, 30 fps;5;> 26;Sim.;Home, Office;No;-;-;30;40;http://fenix.univ.rzeszow.pl/mkepski/ds/uf.html
+UP-Fall Detection Dataset (UP-Fall);martinez2019up;2019;Microsoft LifeCam Cinema;2;640×480, 18 fps;17;[18-24];Sim.;Lab;No;5;6;255;306;https://sites.google.com/up.edu.mx/har-up/

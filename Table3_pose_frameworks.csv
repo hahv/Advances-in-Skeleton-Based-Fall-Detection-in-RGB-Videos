@@ -1,0 +1,10 @@
+﻿3;4;5;6;7
+Framework;Cite;Kp. Out.;Appr.;Access
+AlphaPose;alphapose;2D/3D;TD;https://github.com/MVIG-SJTU/AlphaPose
+DCPose;dcpose;2D;TD;https://github.com/Pose-Group/DCPose
+MediaPipe Pose;MediaPipePose:online;2D/3D;TD;https://github.com/google/mediapipe/blob/master/docs/solutions/pose.md
+MoveNet;movenet;2D;BU;https://github.com/tensorflow/tfjs-models/tree/master/pose-detection/src/movenet
+MSPN;mspnli2019rethinking;2D;TD;https://github.com/megvii-research/MSPN
+OpenPifpaf;openpifpaf;2D;BU;https://github.com/openpifpaf/openpifpaf
+OpenPose;openpose;2D/3D;BU;https://github.com/CMU-Perceptual-Computing-Lab/openpose
+PoseNet;posenet;2D;BU;https://github.com/tensorflow/tfjs-models/tree/master/pose-detection/src/posenet
